@@ -1,0 +1,132 @@
+body {
+  background-color: #F3E6D9;
+}
+
+#container {
+  background-color: #FFFFFF;
+  padding: 17px;
+  height: 1100px;
+  margin: auto;
+  width: 380px;
+  position: relative;
+  top: 20px;
+  border-radius: 10px;
+}
+
+.easy {
+  font-size: 10px;
+  line-height: 3px;
+  position: relative;
+  top: -9px;
+}
+
+.Preparation {
+  background-color: #FFF7FC;
+  height: 90px;
+  padding: 8px;
+  font-size: 12px;
+  line-height: 1px;
+  border-radius: 10px;
+}
+
+.Ingredients {
+  position: relative;
+  top: -30px;
+  left: -28px;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.instruction {
+  font-size: 12px;
+  padding: 10px;
+  line-height: 1px;
+  position: relative;
+  top: -50px;
+  left: -30px;
+}
+
+.nutrition {
+  position: relative;
+  top: -40px;
+  font-size: 10px;
+  padding: 8px;
+  left: 10px;
+}
+
+.ins {
+  position: relative;
+  top: -23px;
+}
+
+.nut {
+  position: relative;
+  top: -30px;
+}
+
+.thetable {
+  position: relative;
+  top: -40px;
+  font-size: 11px;
+  left: 5px;
+}
+
+li {
+  line-height: 18px;  
+}
+
+
+h3 {
+  color: #5D1735;
+  position: relative;
+  left: 5px;
+}
+
+hr {
+  position: relative;
+  top: -28px;
+  
+}
+
+.kcal {
+  position: relative;
+  left: 160px;
+  font-size: 15px;
+  color: #5D1735;
+}
+
+.kcal1 {
+  position: relative;
+  left: 170px;
+  font-size: 15px;
+  color: #5D1735;
+}
+
+.kcal2 {
+  position: relative;
+  left: 163px;
+  font-size: 15px;
+  color: #5D1735;
+
+}
+
+.kcal3 {
+  font-size: 15px;
+  position: relative;
+  left: 180px;
+  color: #5D1735;
+}
+
+img{
+ border-radius: 10px;
+}
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
